@@ -1,7 +1,7 @@
 #👋 Hi, I’m @Zach-Clay
 
 
-##Socials
+## Socials
 - LinkedIn: https://www.linkedin.com/in/zachary-clay-027215203/
 - Facebook: https://www.facebook.com/zach.clay.927
 - Instagram: https://www.instagram.com/zach__clay/
