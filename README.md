@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Zach-Clay
-
+I am an Junior at Clemson University College of Engineering Computing and Applied Scientist. I pasionate about software engineering and developing my professional skills in computer science.
 
 ## Socials
 - LinkedIn: https://www.linkedin.com/in/zachary-clay-027215203/
