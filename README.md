@@ -1,5 +1,4 @@
 # 👋 Hi, I’m @Zach-Clay
-I am an Senior at Clemson University College of Engineering, Computing and Applied Sciences. I'm passionate about growth and developing my professional skills as a software developer.
 
 ## Links
 - Website: https://zach-clay.github.io 
