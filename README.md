@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Zach-Clay
+# 👋 Hi, I’m Zachary Clay
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/zachary-clay-027215203/
